@@ -1,0 +1,58 @@
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 24px;
+}
+.logo-image{
+    margin-left: 30px;
+}
+header{
+    background-color: #1f2937;
+    color: #f9faf8;
+}
+.hero{
+    display: flex;
+    justify-content: center;
+    
+}
+ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+.images-container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.mid-section{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 100px;
+}
+.mid-section-title{
+    text-align: center;
+}
+footer{
+    background-color: #1f2937;
+    margin-top: auto;
+}
+.quote{
+    background-color: #E5E7EB;
+}
+.call-to-action{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
