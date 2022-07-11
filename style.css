@@ -15,7 +15,7 @@ nav{
     color: #f9faf8;
 }
 header{
-    background-color: red;
+    background-color: #D70040;
     color: #f9faf8;
 }
 .hero{
@@ -80,7 +80,7 @@ footer{
     color: #E5E7EB;
 }
 button{
-    background-color: red;
+    background-color: #D70040;
     color: black;
     border-color: white;
     border-radius: 5px;
@@ -110,7 +110,7 @@ p.author{
 }
 section.mid-section{
     background-color: black;
-    color: red;
+    color: #D70040;
 }
 ul{
     margin-right: 69px;
