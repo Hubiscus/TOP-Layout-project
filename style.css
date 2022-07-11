@@ -15,7 +15,7 @@ nav{
     color: #f9faf8;
 }
 header{
-    background-color: #1f2937;
+    background-color: red;
     color: #f9faf8;
 }
 .hero{
@@ -49,7 +49,7 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #1f2937;
+    background-color: black;
     margin-top: auto;
     color: white;
 }
@@ -61,7 +61,7 @@ footer{
     padding: 40px;
 }
 .call-to-action{
-    background-color: #3882f6;
+    background-color: black;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -80,8 +80,41 @@ footer{
     color: #E5E7EB;
 }
 button{
-    background-color: #3882f6;
-    color: white;
+    background-color: red;
+    color: black;
     border-color: white;
     border-radius: 5px;
+}
+.cta-text{
+    color: white;
+}
+/*div.quote{
+    width: 1346px;
+}*/
+div.hero-text{
+    width: 360px;
+}
+.author{
+    margin-left: 1629px;
+}
+img{
+    width: -95px;
+    height: 160px;
+
+}
+p.author{
+    margin-left: 1479px
+}
+.quote-also{
+    margin-left: 731px;
+}
+section.mid-section{
+    background-color: black;
+    color: red;
+}
+ul{
+    margin-right: 69px;
+}
+img.logo-image{
+    margin-left: 409;
 }
